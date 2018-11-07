@@ -22,6 +22,17 @@ body{
 #quarto{
     background-color: rgba(75, 64, 221, 0.863);
 }
+.formulario{
+    margin: 30px;
+    font-family: roboto;
+    font-size: 20px;
+}
+.label{
+    font-family: roboto;
+    font-size: 50px;
+    color:rgba(41, 41, 129, 0.493);
+
+}
 @media screen and (min-width: 960px){
 	body{
 		height: 100%;
