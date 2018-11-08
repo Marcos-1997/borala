@@ -37,33 +37,34 @@
     </nav>
   </header>
     <article>
-      <div class="row">
-    <form class="col s12" class="formulario" action="" method="GET">
+      <div class="row container">
+    <form class="col s12 formulario" action="" method="GET">
       <div class="row">
         <div class="input-field col s6">
-          <input placeholder="Placeholder" id="first_name" type="text" class="validate">
+          <input placeholder="Placeholder" id="first_name" type="text" class="validate" required="required">
           <label for="first_name">First Name</label>
         </div>
         <div class="input-field col s6">
-          <input id="last_name" type="text" class="validate">
+          <input id="last_name" type="text" class="validate" required="required">
           <label for="last_name">Last Name</label>
         </div>
       </div>
       <div class="row">
         <div class="input-field col s12">
-          <input id="password" type="password" class="validate">
+          <input id="password" type="password" class="validate" required="required">
           <label for="password">Password</label>
         </div>
       </div>
       <div class="row">
         <div class="input-field col s12">
           <input id="email" type="email" class="validate">
-            <label for="email" data-error="wrong" data-success="right">Email</label>
+            <label for="email" data-error="wrong" data-success="right" required="required">Email</label>
           </div>
         </div>
       </div>
-      <input type="submit" />
-      <input type="reset">
+      <div class="container">
+      <input type="submit" id="Enviar" alt="Enviar"/>
+      <input type="reset"  id="Redefinir" alt="Redefinir"/></div>
     </form>
   </div>     
     </article>
