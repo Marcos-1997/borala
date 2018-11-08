@@ -6,6 +6,9 @@ body{
     background-image: url("../img/fundoc.jpg");
     box-shadow: transparent;
 }
+#logo{
+    width: 100px;
+}
 .menu{
     background-color: rgb(26, 26, 202);
     box-shadow: none;
