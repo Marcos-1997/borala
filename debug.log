@@ -43,3 +43,6 @@
 [1108/103449.576:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Cuppat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
 [1108/103449.592:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
 [1108/103449.592:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Cuppat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[1110/201157.852:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Cuppat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[1110/201157.852:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[1110/201157.852:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Cuppat\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
